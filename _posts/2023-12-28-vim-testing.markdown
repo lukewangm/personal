@@ -27,10 +27,10 @@ I will use practice having it available in my toolbox.
 **NORMAL MODE**
 - hjkl - curser movement
 - v - VISUAL mode
-- a|A|i|I - enter INSERT mode
+- aAiI - enter INSERT mode
 - u - undo previous action
 - dd - delete a line
-- d - followed by number and [h|j|k|l] to delete x characters
+- d - followed by number and [hjkl] to delete x characters
 - x - delete character in cursor
 - r - replace character in cursor
 - yy - copy a line
