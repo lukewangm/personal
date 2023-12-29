@@ -29,3 +29,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+You can find the source code for Minima at 
+[minima](https://github.com/jekyll/minima)
+
