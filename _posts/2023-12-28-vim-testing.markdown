@@ -18,7 +18,7 @@ I will use practice having it available in my toolbox.
 *This can be used in combination with command and option*
 
 **INSERT MODE**
-- option+shift+[up|down] - copy line up/down
+- option+shift+[up/down] - copy line up/down
 - esc - exit to NORMAL mode
 - ctrl + b - move cursor left
 - ctrl + f - move cursor right
