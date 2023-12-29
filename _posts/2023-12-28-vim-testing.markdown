@@ -18,22 +18,22 @@ categories: blog
 *This can be used in combination with command and option*
 
 **INSERT MODE**
-    option+shift+[up|down] - copy line up/down
-    esc - exit to NORMAL mode
-    ctrl + b - move cursor left
-    ctrl + f - move cursor right
-    cmd + arrow - move to absolute direction
+option+shift+[up|down] - copy line up/down
+esc - exit to NORMAL mode
+ctrl + b - move cursor left
+ctrl + f - move cursor right
+cmd + arrow - move to absolute direction
 
 **NORMAL MODE**
-    hjkl - curser movement
-    v - VISUAL mode
-    a|A|i|I - enter INSERT mode
-    u - undo previous action
-    dd - delete a line
-    d - followed by number and [h|j|k|l] to delete x characters
-    x - delete character in cursor
-    r - replace character in cursor
-    yy - copy a line
-    p - paste a line
-    g_ - go to end of line
-    :x - go to line x
+hjkl - curser movement
+v - VISUAL mode
+a|A|i|I - enter INSERT mode
+u - undo previous action
+dd - delete a line
+d - followed by number and [h|j|k|l] to delete x characters
+x - delete character in cursor
+r - replace character in cursor
+yy - copy a line
+p - paste a line
+g_ - go to end of line
+:x - go to line x
