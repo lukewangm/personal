@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+Hello! My name is Luke Wang and I am currently a fourth year computer science student at the University of Southern California. I am based in Los Angeles.
+<!-- Markdown -->
+![Profile Picture](/images/headshot_photo_2023.png){:width="30%"}
 
-/<img src="/images/headshot_photo_2023.jpg" alt="">
-
-
-This website was crafted using [Jekyll](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
+You can find the source code for Minima at 
 [minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at : [jekyll](https://github.com/jekyll/jekyll)
