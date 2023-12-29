@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "About Me!"
+title:  "Testing out VIM commands"
 date:   2023-12-28 17:11:17 -0500
-categories: jekyll update
+categories: blog
 ---
 
 I wrote this page mouse free!
@@ -18,10 +18,12 @@ The current VIM commands I know in NORMAL Mode are:
     *This can be used in combination with command and option*
 
     **INSERT MODE**
+    option+shift+[up|down] - copy line up/down
     esc - exit to NORMAL mode
-    ctrl + n - go back a character
-    ctrl + f - go forward a character
-    
+    ctrl + b - move cursor left
+    ctrl + f - move cursor right
+    cmd + arrow - move to absolute direction
+
     **NORMAL MODE**
     hjkl - curser movement
     v - VISUAL mode
@@ -33,4 +35,5 @@ The current VIM commands I know in NORMAL Mode are:
     r - replace character in cursor
     yy - copy a line
     p - paste a line
-    
+    g_ - go to end of line
+    :x - go to line x
