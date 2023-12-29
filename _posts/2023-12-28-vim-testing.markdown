@@ -7,7 +7,7 @@ categories: blog
 
 # I wrote this page mouse free!
 
-I am currently practicing how to use VIM.
+I am currently practicing how to use VIM (An texteditor).
 However, I am still trying to get used to it. When I make typing errors,
 I dont utilize what VIM has to offer because I just press backspace a 
 ton of times. I hope that I can fully utilize it, but for now
