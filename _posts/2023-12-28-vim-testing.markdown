@@ -7,18 +7,18 @@ categories: blog
 
 # I wrote this page mouse free!
 
-I am currently practicing how to use this thing i learned called VIM
+I am currently practicing how to use this thing I learned called VIM
 However, I am still trying to get used to it. When I make typing errors,
-I dont utilize what VIM hast to offer because I use press backspace a 
-ton of times. I hope that I can be able to fully utilize it, but for now
-I will use practice having it available in my toolbox.
+I dont utilize what VIM has to offer because I press backspace a 
+ton of times. I hope that I can fully utilize it, but for now
+I will just have it in my toolbox.
 
 # The current VIM commands I know in NORMAL Mode are:
 
 *This can be used in combination with command and option*
 
 **INSERT MODE**
-- option+shift+[up/down] - copy line up/down
+- option+shift+[updown] - copy line up/down
 - esc - exit to NORMAL mode
 - ctrl + b - move cursor left
 - ctrl + f - move cursor right
