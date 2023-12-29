@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing out VIM commands"
-date:   2023-12-28 17:11:17 -0500
+date:   2023-12-29 14:00:00 -0500
 categories: blog
 ---
 
