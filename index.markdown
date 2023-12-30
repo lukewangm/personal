@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
+
+Hello! My name is Luke Wang and I am currently a fourth year computer science student at the University of Southern California. I am based in Los Angeles.
+
+![Profile Picture](/assets/images/headshot_photo_2023.png){:width="30%"}
