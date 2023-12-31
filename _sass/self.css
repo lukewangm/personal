@@ -1,0 +1,23 @@
+.hide {
+    display: none;
+  }
+  
+.usc_short:hover + .hide {
+    display: block;
+    color: red;
+  }
+
+.container {
+display: flex;
+justify-content: center
+}
+
+.image {
+max-width: 30%;
+max-height:30%;
+}
+
+.text {
+font-size: 1rem;
+padding-left: 1rem;
+}
