@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Site Updates!"
-date:   2023-12-30 17:11:17 -0500
+date:  2023-12-30 17:11:17 -0500 # iso standard
 categories: update
 ---
 
