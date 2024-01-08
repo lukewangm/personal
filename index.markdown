@@ -11,6 +11,7 @@ layout: page
         a computer science student at 
         <span class = "usc_short" >USC.</span>
         <span class = "hide" >University of Southern California.</span>
+        [This site is currently under construction]
         </p>
     <div>
 </div>
