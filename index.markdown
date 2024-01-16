@@ -1,19 +1,28 @@
 ---
 layout: page
 ---
-<div class="container">
-    <div class= "image" >
-        <img src="/assets/images/favicon.png">
-    </div>
-    <div class="text">
-        <p>
-        I'm Luke Wang,
-        a computer science student at 
-        <span class = "usc_short" >USC.</span>
-        <span class = "hide" >University of Southern California.</span>
+<section>
+    <h1>
         [This site is currently under construction]
+    </h1>
+</section>
+
+<section class = "row">
+    <figure class="column image">
+        <img src="/assets/images/favicon.png">
+    </figure>
+    <article class="column">
+        <p>
+            Hello! My name is Luke and I am a computer science student at 
+            <span class = "usc_short" >USC.</span>
+            <span class = "hide" >University of Southern California.</span>
         </p>
-    <div>
-</div>
-<!-- ![Profile Picture](/assets/images/headshot_photo_2023.png){:width="30%" align:} -->
+        <p>
+            This will be a place to display my writing as well as my projects.
+        </p>
+        <p>
+            What other things should I add?
+        </p> 
+    </article>
+</section>
 

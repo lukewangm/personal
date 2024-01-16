@@ -1,23 +1,42 @@
 .hide {
     display: none;
   }
-  
+
 .usc_short:hover + .hide {
     display: block;
     color: red;
   }
 
-.container {
-display: flex;
-justify-content: center
-}
-
 .image {
-max-width: 30%;
-max-height:30%;
+  max-width: 60%;
 }
 
 .text {
 font-size: 1rem;
 padding-left: 1rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 40%;
+  padding: 0 1rem;
+}
+
+.wrapper{
+  max-width: 80%;
+}
+/* 
+div {
+  border: 1px solid black;
+} */
+
+h1 {
+  text-align: center;
 }
