@@ -5,7 +5,11 @@ date:   2024-3-10 23:59:59 -0500
 categories: blog
 ---
 
-<img src="/assets/images/laundry-coms.png" href="https://github.com/lukewangm/laundry-coms" >
+<img src="/assets/images/laundry-coms.png" >
+
+<a href="https://laundry-coms.vercel.app/Timers">
+Laundry-Comms link
+</a>
 
 # Laundry-Comms Motivation
 
@@ -56,7 +60,7 @@ Alternatively I searched for Email API's instead, but most of those services wer
 
 While I may have been unsuccessful in incorporating a notification system in this project, I know that there are services out there that will allow me to do this. They would just require more research and likely requires a lot more encryption and hashing to secure user information.
 
-# Key takeaways
+# Key Takeaways
 
 This was an educational project for me because was the first time that I have built and deployed something other than a static website. I gained a new understanding of how servers and clients work together to send information and the plethora of services that can be used to accomplish the deployment of an application.
 
@@ -66,7 +70,7 @@ This project was also my first time working with React.JS on my own. I now have 
 
 Additionally, previously though I have worked with packages and open source libraries, I never had a true understanding behind the purpose of npm. I learned that the node_modules inside of React projects are just additional functions that have been written to make development easier reducing the need for as much boiler plate code.
 
-# Next steps
+# Next Steps
 
 Though the time I have allocated toward this project has passed, I will continue to spend time to finishing up this website because the laundry problem is real to me and I hope that a working version of this product will help put an end to the need for me to make those extra trips to the laundry room.
 
