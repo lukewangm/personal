@@ -2,6 +2,6 @@
 layout: post
 title:  "Cocoboys!"
 categories: projects
+redirect_to: https://cocoboys.netlify.app/
 ---
 
-<a href="https://cocoboys.netlify.app/flavors/> website link </a>
