@@ -3,7 +3,7 @@ layout: page
 ---
 <section>
     <h1>
-        [This site is currently under construction]
+        work in progress ...
     </h1>
 </section>
 
