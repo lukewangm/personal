@@ -9,4 +9,7 @@ document.addEventListener("keydown", function(event) {
     else if (event.key === 'p') {
         location.assign("/projects")
     }
+    else if (event.key === 'r'){
+        location.assign("https://docs.google.com/document/d/1oJAJqYTUJ6GiNbTngM10SrqfeBA0YqhM9R3Fzrm2oBM/edit?usp=sharing")
+    }
   });
