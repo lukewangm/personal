@@ -2,9 +2,6 @@
 layout: page
 ---
 <section>
-    <h1>
-        work in progress ...
-    </h1>
 </section>
 
 <section class = "row">
