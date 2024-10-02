@@ -12,4 +12,7 @@ document.addEventListener("keydown", function(event) {
     else if (event.key === 'r'){
         location.assign("https://docs.google.com/document/d/1oJAJqYTUJ6GiNbTngM10SrqfeBA0YqhM9R3Fzrm2oBM/edit?usp=sharing")
     }
+    else if (event.key === 'g'){
+        location.assign("https://github.com/lukewangm")
+    }
   });
