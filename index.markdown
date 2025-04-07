@@ -3,6 +3,8 @@ layout: page
 ---
 <section>
 </section>
+ <!-- d3 test -->
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 
 <section class = "row">
     <figure class="column image">
@@ -10,16 +12,17 @@ layout: page
     </figure>
     <article class="column">
         <p>
-            Hello! My name is Luke and I am a computer science student at 
-            <span class = "usc_short" >USC.</span>
-            <span class = "hide" >University of Southern California.</span>
+            Hello! My name is Luke and I am an
+            <span class = "usc_short" >USC</span>
+            <!-- <span class = "hide" >University of Southern California.</span> -->
+            Alum.
+        </p>
+        <p>
+            I am currently working at Silvus Technologies as a frontend software engineer.
         </p>
         <p>
             This will be a place to display my writing as well as my projects.
         </p>
-        <p>
-            What other things should I add?
-        </p> 
     </article>
 </section>
 
