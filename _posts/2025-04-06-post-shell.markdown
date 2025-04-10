@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "post-shell"
-date: '2025-04-06' 12:00:00 -0800
+date: 2025-04-06 12:00:00 -0800
 categories: update
 ---
 
