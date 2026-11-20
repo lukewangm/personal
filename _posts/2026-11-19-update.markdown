@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'update'
+date:  2026-11-19 12:00:00 -0800
+categories: update
+---
+
+It's been a long time since I have made any posts here. I guess I was never really that consistent, but it's never too late to start I guess. It's been an interesting day, with lots of thoughts and I reminded myself that I had this while on my walk home from the climbing gym. For the past several weeks, I've been training for the Rose Bowl half marathon and somewhat consistent with going to the climbing gym. It's always been with other people, so I haven't had a lot of time truly to myself.
+
+The good news today, that I am very excited to share is that, I hit a new PR. A new bench press PR of 185. This number feels very special to me because it is symbolic of what is achieviable with just a little consistent and a little [] (This word seems to always slip my mind) The past couple weeks, I have not been directly training for a bench press PR, but I did try to see where I was physically on 9/20, which was 175. I tried 185 that day, but it did not budge.
+
+After seeing this date, I've realized that it's been exactly 2 months since. In the month of October, I was in china for 2 weeks, so that's my excuse of not making progress sooner. Anyway, I've been doing a combination of exercises from Runna and I have been following them almost to a tee. I guess, the single arm dumbell presses are working? It could also be that today I was more strategic about trying a heavy weight, and I progressed bar -> 135 -> 185, so there was not room for fatigue. Regardless, it's exciting and motivating for me to inch closer to 225. I was also motivated because my uncle told me that he was able to bench 1.5x his body weight at my age, and since I weight around 150, I should be able to do 225 if I want to compete with him. Also because Mason texted me recently telling me that he hit 205.
+
+I also have my a turkey trot this coming sunday, and I am curious to see if the running training I have been doing will yield positive results. It's been a while since I've been in shape to run a 5k and my goal is to beat whatever my hs time was. Just found the time. It's ... 22:54.56 ; That's 7:22 a mile. Honestly not bad considering I was a sprinter and I dreaded running a mile. Definitely not going to be a breeze to beat, but I am relatively confident that I can do it.
+
+Outside of fitness, I've also been thinking about improving this site as a whole. The whole purpose of this website is suppose to be a portfolio, but I've not been proud enough of it to share it with others. It definitely needs some work, but I haven't put much thought into how I can change it. I guess that's what I am doing right now. The main usecase outside of that is just so that I can share my thoughts without being tied down to another social media platform... but I suppose I am tied down to github since I'm using it for version control for these markdown files.
+
+One thing I've also been thinking of lately is the knowledge that I've been able to accumulate working at Silvus, both about the architecture of the code there but also the realms of possiblity of myself. There's so many opportunities to explore new libraries and tools that I've recently found myself in, but such limited time and bandwidth to get those into what we use. Things that peak my interest will likely take a big chunk of time to implement and test, but I guess if I like it enough; I can try in my own time. Also, with the help of Claude, I can definitely learn how to use new things faster, and even just have it write a lot of the code. My big ick towards it is the how it easy it makes for the developer to have no idea what they are doing. Because it's gotten to a level where it is able to write so much code that seems functional. It's gotten easy to write a lot of code to the point where it is hard for the individual to comprehend what is going on. I've noticed this in some of the work that my intern has done, because so much of it had been transitioning the codebase to use a more modern framework. The syntax is readable, but some of the methodologies that get employed seem so out of ordinary for me. It makes it hard for me to want to fully adopt it and I find it hard to imagine what AI usage is like at bigger companies where they boast about how AI forward their engineers are. Like even for me, in my most recent project, where I used Claude to framework some code for me ~60 lines. I was so skeptical that I read throught it all, and I feel like the time it took me to comprehend it would've been the same if I had written it myself. On top of that, now I'm missing out on the reps that I could be putting in writing production python code. 
+
+The last thing on my mind is what projects I want to work on for myself moving forward and whether I should build on the skills I am picking up at work or expand towards skills that I don't have the chance to work on at a more embedded focused company. I've realized that I should be getting a deeper understanding of Bitbake, and utilizing my time at working to researching and implement the tools that I feel like make the code more modern. Small things like using Claude to write unit tests that I define myself using unfamiliar new frameworks like vitest is one example. 
+
+Also, maybe I can start learning chinese again...
+
+Here are my priorities:
+Studying -> self improvement solving problems, and being a better communicater
+Physical health -> Running faster, getting stronger, keep tracking of my health (things like my a1c)
+
+Other things like social, I feel I need dial down a little because it's been distracting me from the studying. Works pretty well for physical health since I do a lot of exercise with other people. But definitely need to allocate time to myself weekly and give myself time to reflect.... I think this is also a result of my finishing the chinese drama "against the current" recently, and not having very many distacting tv shows.. Instagram is definitely a big distraction still, but I can for sure reel back on that...
+
+Anywho, this was a good talk.
